@@ -1,4 +1,4 @@
-[gd_scene load_steps=23 format=2]
+[gd_scene load_steps=27 format=2]
 
 [ext_resource path="res://FONDO/Road_01/Road_01_Tile_08/Road_01_Tile_08.png" type="Texture" id=1]
 [ext_resource path="res://FONDO/Decor/Start.png" type="Texture" id=2]
@@ -18,8 +18,10 @@
 [ext_resource path="res://fondo/pngwing.com.png" type="Texture" id=16]
 [ext_resource path="res://FONDO/Background_Tiles/Grass_Tile.png" type="Texture" id=17]
 [ext_resource path="res://FONDO/Decor/Rock_02.png" type="Texture" id=18]
-[ext_resource path="res://KinematicBody2D.gd" type="Script" id=19]
+[ext_resource path="res://fondo/autorojo.png" type="Texture" id=19]
 [ext_resource path="res://FONDO/Decor/Bush_01.png" type="Texture" id=20]
+[ext_resource path="res://carro.gd" type="Script" id=21]
+[ext_resource path="res://carro2.gd" type="Script" id=22]
 
 [sub_resource type="ConvexPolygonShape2D" id=1]
 points = PoolVector2Array( 128, 128, 0, 128, 0, 0, 128, 0 )
@@ -46,6 +48,12 @@ points = PoolVector2Array( 128, 128, 0, 128, 0, 0, 128, 0 )
 "shape_transform": Transform2D( 1, 0, 0, 1, 0, 0 )
 } ]
 0/z_index = 0
+
+[sub_resource type="RectangleShape2D" id=3]
+extents = Vector2( 24.5, 44.3434 )
+
+[sub_resource type="RectangleShape2D" id=4]
+extents = Vector2( 262.652, 446.205 )
 
 [node name="Fondo" type="Node2D"]
 
@@ -329,17 +337,31 @@ texture = ExtResource( 14 )
 position = Vector2( -1417.36, 994.141 )
 texture = ExtResource( 15 )
 
-[node name="KinematicBody2D" type="KinematicBody2D" parent="."]
-script = ExtResource( 19 )
+[node name="carro1" type="KinematicBody2D" parent="Start"]
+script = ExtResource( 21 )
 
-[node name="Sprite" type="Sprite" parent="KinematicBody2D"]
-position = Vector2( 320.023, 504.177 )
-rotation = 1.57908
-scale = Vector2( 0.027631, 0.0276325 )
-
-[node name="Pngwingcom" type="Sprite" parent="."]
-position = Vector2( 291, 518 )
-rotation = -1.5708
-scale = Vector2( 0.02, 0.02 )
+[node name="img" type="Sprite" parent="Start/carro1"]
+position = Vector2( -248.518, 720.072 )
+rotation = -3.14159
+scale = Vector2( 0.488122, 0.365507 )
 texture = ExtResource( 16 )
-centered = false
+
+[node name="colisionador" type="CollisionShape2D" parent="Start/carro1"]
+position = Vector2( -253.25, 724.479 )
+rotation = 4.65661e-11
+scale = Vector2( 10, 10 )
+shape = SubResource( 3 )
+
+[node name="carro2" type="KinematicBody2D" parent="Start"]
+script = ExtResource( 22 )
+
+[node name="img" type="Sprite" parent="Start/carro2"]
+position = Vector2( 329.346, 730.435 )
+scale = Vector2( 0.834798, 0.680207 )
+texture = ExtResource( 19 )
+
+[node name="colisionador" type="CollisionShape2D" parent="Start/carro2"]
+position = Vector2( 334.864, 727.78 )
+rotation = 5.82076e-11
+scale = Vector2( 1, 1 )
+shape = SubResource( 4 )

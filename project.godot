@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="carreras1"
-run/main_scene="res://FONDOCARRERAS1.tscn"
+run/main_scene="res://Control.tscn"
 config/icon="res://icon.png"
 
 [input]
