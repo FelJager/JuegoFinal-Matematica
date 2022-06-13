@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Finish.png-cd3ad0af155882883f2e65d91ecf3b29.stex"
+path="res://.import/Finish.png-b464cca30b7dceb0b29b8a0ba0b44c02.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://FONDO/Decor/Finish.png"
-dest_files=[ "res://.import/Finish.png-cd3ad0af155882883f2e65d91ecf3b29.stex" ]
+source_file="res://fondo/Decor/Finish.png"
+dest_files=[ "res://.import/Finish.png-b464cca30b7dceb0b29b8a0ba0b44c02.stex" ]
 
 [params]
 

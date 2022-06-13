@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Stop_Light.png-d37668e09cff2793e56816ab5ec686c3.stex"
+path="res://.import/Stop_Light.png-09b1ad93f999b59cde7c8b6e532a2614.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/SCML/Cars_Effects/Stop_Light.png"
-dest_files=[ "res://.import/Stop_Light.png-d37668e09cff2793e56816ab5ec686c3.stex" ]
+source_file="res://juego/SCML/Cars_Effects/Stop_Light.png"
+dest_files=[ "res://.import/Stop_Light.png-09b1ad93f999b59cde7c8b6e532a2614.stex" ]
 
 [params]
 

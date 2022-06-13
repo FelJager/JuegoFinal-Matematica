@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Decor_Building_01.png-e5becd4a9c5299d0e272b6cc4c9f1e84.stex"
+path="res://.import/Decor_Building_01.png-7e2261468f52c832d71dae0d79bcd48c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://FONDO/Decor/Decor_Building_01.png"
-dest_files=[ "res://.import/Decor_Building_01.png-e5becd4a9c5299d0e272b6cc4c9f1e84.stex" ]
+source_file="res://fondo/Decor/Decor_Building_01.png"
+dest_files=[ "res://.import/Decor_Building_01.png-7e2261468f52c832d71dae0d79bcd48c.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Light_02.png-a445a91d16682a7e278ac30efc161583.stex"
+path="res://.import/Light_02.png-9ce3bc1b6fc39c4d7a518ed67b8310bc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/SCML/Cars_Effects/Light_02.png"
-dest_files=[ "res://.import/Light_02.png-a445a91d16682a7e278ac30efc161583.stex" ]
+source_file="res://juego/SCML/Cars_Effects/Light_02.png"
+dest_files=[ "res://.import/Light_02.png-9ce3bc1b6fc39c4d7a518ed67b8310bc.stex" ]
 
 [params]
 

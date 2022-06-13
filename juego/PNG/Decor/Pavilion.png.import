@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pavilion.png-1cd9de86b67e4513a6c8716aebc04959.stex"
+path="res://.import/Pavilion.png-1f20018715f8b614fb24d095eb1963d3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Decor/Pavilion.png"
-dest_files=[ "res://.import/Pavilion.png-1cd9de86b67e4513a6c8716aebc04959.stex" ]
+source_file="res://juego/PNG/Decor/Pavilion.png"
+dest_files=[ "res://.import/Pavilion.png-1f20018715f8b614fb24d095eb1963d3.stex" ]
 
 [params]
 

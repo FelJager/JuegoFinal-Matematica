@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Road_Main.png-15250720b010b56cc5e1d1378a2ecda3.stex"
+path="res://.import/Road_Main.png-6d75a1c03b2f9667bde747ee7eb5772f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://FONDO/Road_01/Road_01_Tile_08/Layers/Road_Main.png"
-dest_files=[ "res://.import/Road_Main.png-15250720b010b56cc5e1d1378a2ecda3.stex" ]
+source_file="res://fondo/Road_01/Road_01_Tile_08/Layers/Road_Main.png"
+dest_files=[ "res://.import/Road_Main.png-6d75a1c03b2f9667bde747ee7eb5772f.stex" ]
 
 [params]
 

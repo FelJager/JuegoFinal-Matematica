@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Indicator_OFF.png-2d131deb22e1c1f2260a94af557a2b99.stex"
+path="res://.import/Indicator_OFF.png-6dc025b9bf53c03b5fe1f5fc18d0569a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Setting/Indicator_OFF.png"
-dest_files=[ "res://.import/Indicator_OFF.png-2d131deb22e1c1f2260a94af557a2b99.stex" ]
+source_file="res://juego/PNG/Setting/Indicator_OFF.png"
+dest_files=[ "res://.import/Indicator_OFF.png-6dc025b9bf53c03b5fe1f5fc18d0569a.stex" ]
 
 [params]
 

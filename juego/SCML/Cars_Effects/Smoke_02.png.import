@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Smoke_02.png-ea07bc9fea5ff6c1a35a1998efa37ecc.stex"
+path="res://.import/Smoke_02.png-64eb42f1571e655561d9695ebb5cffa7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/SCML/Cars_Effects/Smoke_02.png"
-dest_files=[ "res://.import/Smoke_02.png-ea07bc9fea5ff6c1a35a1998efa37ecc.stex" ]
+source_file="res://juego/SCML/Cars_Effects/Smoke_02.png"
+dest_files=[ "res://.import/Smoke_02.png-64eb42f1571e655561d9695ebb5cffa7.stex" ]
 
 [params]
 

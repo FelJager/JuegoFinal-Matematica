@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Tree.png-10d6c60cf9047a880391c2b677bdf28b.stex"
+path="res://.import/Tree.png-bfcf6835bb26820caac58e03792e4893.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Decor/Tree.png"
-dest_files=[ "res://.import/Tree.png-10d6c60cf9047a880391c2b677bdf28b.stex" ]
+source_file="res://juego/PNG/Decor/Tree.png"
+dest_files=[ "res://.import/Tree.png-bfcf6835bb26820caac58e03792e4893.stex" ]
 
 [params]
 

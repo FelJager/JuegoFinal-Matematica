@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Music_BTN.png-80fbea17c17e721454c539513a42b900.stex"
+path="res://.import/Music_BTN.png-fbee608b72533400f6e306baa8cb0a50.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Buttons/Music_BTN.png"
-dest_files=[ "res://.import/Music_BTN.png-80fbea17c17e721454c539513a42b900.stex" ]
+source_file="res://juego/PNG/Buttons/Music_BTN.png"
+dest_files=[ "res://.import/Music_BTN.png-fbee608b72533400f6e306baa8cb0a50.stex" ]
 
 [params]
 

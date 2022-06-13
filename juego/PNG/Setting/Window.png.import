@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Window.png-68be540f0a1e09fd084faf3108d09818.stex"
+path="res://.import/Window.png-88ca5815153bfacd49c020f49bd4caec.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Setting/Window.png"
-dest_files=[ "res://.import/Window.png-68be540f0a1e09fd084faf3108d09818.stex" ]
+source_file="res://juego/PNG/Setting/Window.png"
+dest_files=[ "res://.import/Window.png-88ca5815153bfacd49c020f49bd4caec.stex" ]
 
 [params]
 

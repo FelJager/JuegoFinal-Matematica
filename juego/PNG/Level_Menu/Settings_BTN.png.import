@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Settings_BTN.png-c15427d98660c3b04f9695c172c477ea.stex"
+path="res://.import/Settings_BTN.png-30e579495865e3921071b1d17aa2956a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Level_Menu/Settings_BTN.png"
-dest_files=[ "res://.import/Settings_BTN.png-c15427d98660c3b04f9695c172c477ea.stex" ]
+source_file="res://juego/PNG/Level_Menu/Settings_BTN.png"
+dest_files=[ "res://.import/Settings_BTN.png-30e579495865e3921071b1d17aa2956a.stex" ]
 
 [params]
 

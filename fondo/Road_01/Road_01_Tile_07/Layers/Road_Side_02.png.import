@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Road_Side_02.png-a3987e0d28b3f6cce0bc42932fc9fdf6.stex"
+path="res://.import/Road_Side_02.png-d600d112498c79575e85cde9014b3268.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://FONDO/Road_01/Road_01_Tile_07/Layers/Road_Side_02.png"
-dest_files=[ "res://.import/Road_Side_02.png-a3987e0d28b3f6cce0bc42932fc9fdf6.stex" ]
+source_file="res://fondo/Road_01/Road_01_Tile_07/Layers/Road_Side_02.png"
+dest_files=[ "res://.import/Road_Side_02.png-d600d112498c79575e85cde9014b3268.stex" ]
 
 [params]
 

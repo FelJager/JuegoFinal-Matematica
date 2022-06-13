@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Exit_BTN.png-62849b863f7faea69f47f60e3d994583.stex"
+path="res://.import/Exit_BTN.png-8afab5d0253fcf268cec92a69cb4ee14.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Buttons/Exit_BTN.png"
-dest_files=[ "res://.import/Exit_BTN.png-62849b863f7faea69f47f60e3d994583.stex" ]
+source_file="res://juego/PNG/Buttons/Exit_BTN.png"
+dest_files=[ "res://.import/Exit_BTN.png-8afab5d0253fcf268cec92a69cb4ee14.stex" ]
 
 [params]
 

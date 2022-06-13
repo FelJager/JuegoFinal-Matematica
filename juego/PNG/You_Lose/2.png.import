@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/2.png-49956d0687ac815a86d3fd03e00571c4.stex"
+path="res://.import/2.png-e05704cf3e345746da26e629e7d09fcb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/You_Lose/2.png"
-dest_files=[ "res://.import/2.png-49956d0687ac815a86d3fd03e00571c4.stex" ]
+source_file="res://juego/PNG/You_Lose/2.png"
+dest_files=[ "res://.import/2.png-e05704cf3e345746da26e629e7d09fcb.stex" ]
 
 [params]
 

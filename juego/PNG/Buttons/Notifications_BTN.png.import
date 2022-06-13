@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Notifications_BTN.png-c86722bd41cdc329d13d65225ff1a241.stex"
+path="res://.import/Notifications_BTN.png-9acb0107cf07d940e4ac34af203743d6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Buttons/Notifications_BTN.png"
-dest_files=[ "res://.import/Notifications_BTN.png-c86722bd41cdc329d13d65225ff1a241.stex" ]
+source_file="res://juego/PNG/Buttons/Notifications_BTN.png"
+dest_files=[ "res://.import/Notifications_BTN.png-9acb0107cf07d940e4ac34af203743d6.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Nitro.png-34e13637785ba2b772b50343639a7837.stex"
+path="res://.import/Nitro.png-3572cc0ddff49eec9c73e683b4c5df92.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/SCML/Cars_Effects/Nitro.png"
-dest_files=[ "res://.import/Nitro.png-34e13637785ba2b772b50343639a7837.stex" ]
+source_file="res://juego/SCML/Cars_Effects/Nitro.png"
+dest_files=[ "res://.import/Nitro.png-3572cc0ddff49eec9c73e683b4c5df92.stex" ]
 
 [params]
 

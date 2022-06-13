@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Sound_BTN.png-2723205acf56c0e43500d1591d6946d3.stex"
+path="res://.import/Sound_BTN.png-3208c04e79f9c9e793c08eb7a6025798.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Setting/Sound_BTN.png"
-dest_files=[ "res://.import/Sound_BTN.png-2723205acf56c0e43500d1591d6946d3.stex" ]
+source_file="res://juego/PNG/Setting/Sound_BTN.png"
+dest_files=[ "res://.import/Sound_BTN.png-3208c04e79f9c9e793c08eb7a6025798.stex" ]
 
 [params]
 

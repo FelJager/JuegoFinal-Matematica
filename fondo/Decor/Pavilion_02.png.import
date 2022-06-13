@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pavilion_02.png-ce5f71072443d3d8adbf027e0e161f46.stex"
+path="res://.import/Pavilion_02.png-e9126ad56349f6925b449beceff5d2dd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://FONDO/Decor/Pavilion_02.png"
-dest_files=[ "res://.import/Pavilion_02.png-ce5f71072443d3d8adbf027e0e161f46.stex" ]
+source_file="res://fondo/Decor/Pavilion_02.png"
+dest_files=[ "res://.import/Pavilion_02.png-e9126ad56349f6925b449beceff5d2dd.stex" ]
 
 [params]
 

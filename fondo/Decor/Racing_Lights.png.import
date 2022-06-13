@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Racing_Lights.png-ff8d54647f59ede071dae5af088c9c10.stex"
+path="res://.import/Racing_Lights.png-7b8db609e7fee1aa0814e2331f4089bf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://FONDO/Decor/Racing_Lights.png"
-dest_files=[ "res://.import/Racing_Lights.png-ff8d54647f59ede071dae5af088c9c10.stex" ]
+source_file="res://fondo/Decor/Racing_Lights.png"
+dest_files=[ "res://.import/Racing_Lights.png-7b8db609e7fee1aa0814e2331f4089bf.stex" ]
 
 [params]
 

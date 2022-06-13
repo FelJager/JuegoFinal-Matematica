@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/HP_Dot.png-c15c22ade4c433a75823f7d477a4446b.stex"
+path="res://.import/HP_Dot.png-db80646db395d81f2029a23cdb7e9e82.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Main_UI/HP_Dot.png"
-dest_files=[ "res://.import/HP_Dot.png-c15c22ade4c433a75823f7d477a4446b.stex" ]
+source_file="res://juego/PNG/Main_UI/HP_Dot.png"
+dest_files=[ "res://.import/HP_Dot.png-db80646db395d81f2029a23cdb7e9e82.stex" ]
 
 [params]
 

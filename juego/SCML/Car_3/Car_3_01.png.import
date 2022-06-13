@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Car_3_01.png-0b3e18a1002ac0c70921ce16c1cf546c.stex"
+path="res://.import/Car_3_01.png-b13f0c4f0ea32f274c2fbe7bfe081ec2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/SCML/Car_3/Car_3_01.png"
-dest_files=[ "res://.import/Car_3_01.png-0b3e18a1002ac0c70921ce16c1cf546c.stex" ]
+source_file="res://juego/SCML/Car_3/Car_3_01.png"
+dest_files=[ "res://.import/Car_3_01.png-b13f0c4f0ea32f274c2fbe7bfe081ec2.stex" ]
 
 [params]
 

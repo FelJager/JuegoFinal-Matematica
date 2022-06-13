@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Beacon_Red_02.png-b13bb9aabe0ee121fa6c5fd67864fb79.stex"
+path="res://.import/Beacon_Red_02.png-2922c5861e2272e3aaddccd1d4b1fd4d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/SCML/Cars_Effects/Beacon_Red_02.png"
-dest_files=[ "res://.import/Beacon_Red_02.png-b13bb9aabe0ee121fa6c5fd67864fb79.stex" ]
+source_file="res://juego/SCML/Cars_Effects/Beacon_Red_02.png"
+dest_files=[ "res://.import/Beacon_Red_02.png-2922c5861e2272e3aaddccd1d4b1fd4d.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Car_1_04.png-4b0f20dc8c58e1cabace504aa9c954d7.stex"
+path="res://.import/Car_1_04.png-6f3ca7c051667e0dcc059c0851fe8f14.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Car_1_Main_Positions/Car_1_04.png"
-dest_files=[ "res://.import/Car_1_04.png-4b0f20dc8c58e1cabace504aa9c954d7.stex" ]
+source_file="res://juego/PNG/Car_1_Main_Positions/Car_1_04.png"
+dest_files=[ "res://.import/Car_1_04.png-6f3ca7c051667e0dcc059c0851fe8f14.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Vibro_BTN.png-5067b264880e7cbf83914c2d6c5b4bc8.stex"
+path="res://.import/Vibro_BTN.png-819b31d2858a664a5a87c9aeac83b472.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Setting/Vibro_BTN.png"
-dest_files=[ "res://.import/Vibro_BTN.png-5067b264880e7cbf83914c2d6c5b4bc8.stex" ]
+source_file="res://juego/PNG/Setting/Vibro_BTN.png"
+dest_files=[ "res://.import/Vibro_BTN.png-819b31d2858a664a5a87c9aeac83b472.stex" ]
 
 [params]
 

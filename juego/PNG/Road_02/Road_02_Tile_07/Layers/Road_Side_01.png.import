@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Road_Side_01.png-c2252aa3cc89e4c25440c6335cf71e48.stex"
+path="res://.import/Road_Side_01.png-662494b10dd5b29fd69d4696c528dda4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Road_02/Road_02_Tile_07/Layers/Road_Side_01.png"
-dest_files=[ "res://.import/Road_Side_01.png-c2252aa3cc89e4c25440c6335cf71e48.stex" ]
+source_file="res://juego/PNG/Road_02/Road_02_Tile_07/Layers/Road_Side_01.png"
+dest_files=[ "res://.import/Road_Side_01.png-662494b10dd5b29fd69d4696c528dda4.stex" ]
 
 [params]
 

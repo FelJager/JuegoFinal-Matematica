@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/HP_Bonus.png-26e62e7f8c5a7bcd0589dc587daf16c7.stex"
+path="res://.import/HP_Bonus.png-c00af1fc315d174713fb92f2c95ce8e9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Game_Bonus_Items/HP_Bonus.png"
-dest_files=[ "res://.import/HP_Bonus.png-26e62e7f8c5a7bcd0589dc587daf16c7.stex" ]
+source_file="res://juego/PNG/Game_Bonus_Items/HP_Bonus.png"
+dest_files=[ "res://.import/HP_Bonus.png-c00af1fc315d174713fb92f2c95ce8e9.stex" ]
 
 [params]
 

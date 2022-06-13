@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Soil_Tile.png-a2d4bef4663c9c07d057758a2d9d8a2b.stex"
+path="res://.import/Soil_Tile.png-a524efc6d7990340fe61808cf053f27a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Background_Tiles/Soil_Tile.png"
-dest_files=[ "res://.import/Soil_Tile.png-a2d4bef4663c9c07d057758a2d9d8a2b.stex" ]
+source_file="res://juego/PNG/Background_Tiles/Soil_Tile.png"
+dest_files=[ "res://.import/Soil_Tile.png-a524efc6d7990340fe61808cf053f27a.stex" ]
 
 [params]
 

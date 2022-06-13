@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Star_Silver.png-cb98036a3a799ce18e629004209626e3.stex"
+path="res://.import/Star_Silver.png-a82f2deedba930e23b4d48b6cb8d94fb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Level_Menu/Star_Silver.png"
-dest_files=[ "res://.import/Star_Silver.png-cb98036a3a799ce18e629004209626e3.stex" ]
+source_file="res://juego/PNG/Level_Menu/Star_Silver.png"
+dest_files=[ "res://.import/Star_Silver.png-a82f2deedba930e23b4d48b6cb8d94fb.stex" ]
 
 [params]
 

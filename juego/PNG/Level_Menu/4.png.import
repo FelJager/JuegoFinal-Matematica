@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/4.png-96098c77126168c312da93c0b504f163.stex"
+path="res://.import/4.png-b467f27835aae26d2494c1fdf91ee2bd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Level_Menu/4.png"
-dest_files=[ "res://.import/4.png-96098c77126168c312da93c0b504f163.stex" ]
+source_file="res://juego/PNG/Level_Menu/4.png"
+dest_files=[ "res://.import/4.png-b467f27835aae26d2494c1fdf91ee2bd.stex" ]
 
 [params]
 

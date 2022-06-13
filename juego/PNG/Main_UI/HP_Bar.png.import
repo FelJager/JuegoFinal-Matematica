@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/HP_Bar.png-94729c9cc8689c8ed24d7d37a7833adc.stex"
+path="res://.import/HP_Bar.png-0d52c88dac5ba14d1f132f682a81d79e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Main_UI/HP_Bar.png"
-dest_files=[ "res://.import/HP_Bar.png-94729c9cc8689c8ed24d7d37a7833adc.stex" ]
+source_file="res://juego/PNG/Main_UI/HP_Bar.png"
+dest_files=[ "res://.import/HP_Bar.png-0d52c88dac5ba14d1f132f682a81d79e.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Oil.png-990e5b17fedbf88e5f11b9e379725d5a.stex"
+path="res://.import/Oil.png-48c58aae47cf6f7b32362046168b422e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Game_Props_Items/Oil.png"
-dest_files=[ "res://.import/Oil.png-990e5b17fedbf88e5f11b9e379725d5a.stex" ]
+source_file="res://juego/PNG/Game_Props_Items/Oil.png"
+dest_files=[ "res://.import/Oil.png-48c58aae47cf6f7b32362046168b422e.stex" ]
 
 [params]
 

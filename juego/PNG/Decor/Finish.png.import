@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Finish.png-8a49b6a5609ff1dd092a2194de078dc4.stex"
+path="res://.import/Finish.png-36f7bcf33a4d4adc3f4ac646bd1e6772.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Decor/Finish.png"
-dest_files=[ "res://.import/Finish.png-8a49b6a5609ff1dd092a2194de078dc4.stex" ]
+source_file="res://juego/PNG/Decor/Finish.png"
+dest_files=[ "res://.import/Finish.png-36f7bcf33a4d4adc3f4ac646bd1e6772.stex" ]
 
 [params]
 

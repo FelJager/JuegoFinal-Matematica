@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Tire_Track_01.png-2149218b219ea1ed6ed70ffb3ab3d37c.stex"
+path="res://.import/Tire_Track_01.png-94a10c3c2c8277066951d89f17679075.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/SCML/Cars_Effects/Tire_Track_01.png"
-dest_files=[ "res://.import/Tire_Track_01.png-2149218b219ea1ed6ed70ffb3ab3d37c.stex" ]
+source_file="res://juego/SCML/Cars_Effects/Tire_Track_01.png"
+dest_files=[ "res://.import/Tire_Track_01.png-94a10c3c2c8277066951d89f17679075.stex" ]
 
 [params]
 

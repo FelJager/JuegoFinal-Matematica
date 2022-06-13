@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Jumping_Pad_02.png-d850c7f7a323513ecf48945dcba584cb.stex"
+path="res://.import/Jumping_Pad_02.png-26601cb9287d3bb88b37ee370a39e0e3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Game_Props_Items/Jumping_Pad_02.png"
-dest_files=[ "res://.import/Jumping_Pad_02.png-d850c7f7a323513ecf48945dcba584cb.stex" ]
+source_file="res://juego/PNG/Game_Props_Items/Jumping_Pad_02.png"
+dest_files=[ "res://.import/Jumping_Pad_02.png-26601cb9287d3bb88b37ee370a39e0e3.stex" ]
 
 [params]
 

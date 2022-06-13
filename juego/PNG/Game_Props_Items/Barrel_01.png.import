@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Barrel_01.png-5b1a078f6ccb64cca9c0d037c4879858.stex"
+path="res://.import/Barrel_01.png-8ce716742b5b44377bc577b43f9d9716.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Game_Props_Items/Barrel_01.png"
-dest_files=[ "res://.import/Barrel_01.png-5b1a078f6ccb64cca9c0d037c4879858.stex" ]
+source_file="res://juego/PNG/Game_Props_Items/Barrel_01.png"
+dest_files=[ "res://.import/Barrel_01.png-8ce716742b5b44377bc577b43f9d9716.stex" ]
 
 [params]
 

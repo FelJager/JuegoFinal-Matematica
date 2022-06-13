@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Armor_Dot_BG.png-4a93acbc1e657ff8e96377814c9d516c.stex"
+path="res://.import/Armor_Dot_BG.png-01a4f45059a1f6d7082708329acab2e8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Main_UI/Armor_Dot_BG.png"
-dest_files=[ "res://.import/Armor_Dot_BG.png-4a93acbc1e657ff8e96377814c9d516c.stex" ]
+source_file="res://juego/PNG/Main_UI/Armor_Dot_BG.png"
+dest_files=[ "res://.import/Armor_Dot_BG.png-01a4f45059a1f6d7082708329acab2e8.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pause_BTN.png-bebebb593b09185b23d7f18e398c788b.stex"
+path="res://.import/Pause_BTN.png-1268f62e79cf94983065ea7f44c48fec.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Buttons/Pause_BTN.png"
-dest_files=[ "res://.import/Pause_BTN.png-bebebb593b09185b23d7f18e398c788b.stex" ]
+source_file="res://juego/PNG/Buttons/Pause_BTN.png"
+dest_files=[ "res://.import/Pause_BTN.png-1268f62e79cf94983065ea7f44c48fec.stex" ]
 
 [params]
 

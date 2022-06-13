@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Water_Tile.png-2361321c0e406c97f08e98c6a6bae16a.stex"
+path="res://.import/Water_Tile.png-3953cfec0588062b464c748f799de2b5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://holis/PNG/Background_Tiles/Water_Tile.png"
-dest_files=[ "res://.import/Water_Tile.png-2361321c0e406c97f08e98c6a6bae16a.stex" ]
+source_file="res://juego/PNG/Background_Tiles/Water_Tile.png"
+dest_files=[ "res://.import/Water_Tile.png-3953cfec0588062b464c748f799de2b5.stex" ]
 
 [params]
 
